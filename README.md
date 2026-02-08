@@ -53,5 +53,3 @@ The project shows how to implement clean service communication, structured error
 
 ---
 
-## 🔁 Communication Flow
-
