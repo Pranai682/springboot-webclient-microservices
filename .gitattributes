@@ -1,0 +1,5 @@
+.idea/** linguist-vendored
+build/** linguist-vendored
+.gradle/** linguist-vendored
+out/** linguist-vendored
+target/** linguist-vendored
